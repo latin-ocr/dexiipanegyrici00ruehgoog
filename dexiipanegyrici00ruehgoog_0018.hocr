@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dexiipanegyrici00ruehgoog_0018.png"; bbox 0 0 3146 4714; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 800 1955 887 2020">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 800 1955 887 2020">
+     <span class='ocr_line' id='line_1_1' title="bbox 800 1955 887 2020; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 800 1955 887 2020; x_wconf 83' lang='lat' dir='ltr'>De</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 434 2119 1303 2207">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 434 2119 1303 2207">
+     <span class='ocr_line' id='line_1_2' title="bbox 434 2119 1303 2207; baseline 0.003 -20"><span class='ocrx_word' id='word_1_2' title='bbox 434 2119 443 2130; x_wconf 90' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_3' title='bbox 509 2124 618 2188; x_wconf 89' lang='lat' dir='ltr'>XII</span> <span class='ocrx_word' id='word_1_4' title='bbox 641 2130 987 2207; x_wconf 80' lang='lat' dir='ltr'>panegyricis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1009 2129 1193 2192; x_wconf 81' lang='lat' dir='ltr'><strong>latinis</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1296 2150 1303 2166; x_wconf 60' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 604 2299 1090 2378">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 604 2299 1090 2378">
+     <span class='ocr_line' id='line_1_3' title="bbox 604 2299 1090 2378; baseline 0.006 -19"><span class='ocrx_word' id='word_1_7' title='bbox 604 2299 1090 2378; x_wconf 78' lang='lat' dir='ltr'><strong>propaedeumata.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 746 2586 953 2603">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 746 2586 953 2603">
+     <span class='ocr_line' id='line_1_4' title="bbox 746 2586 953 2603; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 746 2586 953 2603; x_wconf 69' lang='lat' dir='ltr'>mwvvwvvvvvv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1578 4714">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1578 4714">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1578 4714; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1578 4714; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
